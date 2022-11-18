@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Service\\Dapper.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Data\\Dapper.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Data\\Dapper.Data.csproj",
+        "projectName": "Dapper.Data",
+        "projectPath": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Data\\Dapper.Data.csproj",
+        "packagesPath": "C:\\Users\\elifh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elifh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj": {
+                "projectPath": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj",
+        "projectName": "Dapper.Domain",
+        "projectPath": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj",
+        "packagesPath": "C:\\Users\\elifh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elifh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Service\\Dapper.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Service\\Dapper.Service.csproj",
+        "projectName": "Dapper.Service",
+        "projectPath": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Service\\Dapper.Service.csproj",
+        "packagesPath": "C:\\Users\\elifh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elifh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Data\\Dapper.Data.csproj": {
+                "projectPath": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Data\\Dapper.Data.csproj"
+              },
+              "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj": {
+                "projectPath": "C:\\Users\\elifh\\source\\repos\\Dapper\\Dapper.Domain\\Dapper.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

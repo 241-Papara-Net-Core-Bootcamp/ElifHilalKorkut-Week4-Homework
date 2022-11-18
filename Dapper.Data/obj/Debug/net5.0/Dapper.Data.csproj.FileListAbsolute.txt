@@ -1,0 +1,15 @@
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\bin\Debug\net5.0\Dapper.Data.deps.json
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\bin\Debug\net5.0\Dapper.Data.dll
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\bin\Debug\net5.0\ref\Dapper.Data.dll
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\bin\Debug\net5.0\Dapper.Data.pdb
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\bin\Debug\net5.0\Dapper.Domain.dll
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\bin\Debug\net5.0\Dapper.Domain.pdb
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\obj\Debug\net5.0\Dapper.Data.csproj.AssemblyReference.cache
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\obj\Debug\net5.0\Dapper.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\obj\Debug\net5.0\Dapper.Data.AssemblyInfoInputs.cache
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\obj\Debug\net5.0\Dapper.Data.AssemblyInfo.cs
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\obj\Debug\net5.0\Dapper.Data.csproj.CoreCompileInputs.cache
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\obj\Debug\net5.0\Dapper.Data.csproj.CopyComplete
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\obj\Debug\net5.0\Dapper.Data.dll
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\obj\Debug\net5.0\ref\Dapper.Data.dll
+C:\Users\elifh\source\repos\Dapper\Dapper.Data\obj\Debug\net5.0\Dapper.Data.pdb

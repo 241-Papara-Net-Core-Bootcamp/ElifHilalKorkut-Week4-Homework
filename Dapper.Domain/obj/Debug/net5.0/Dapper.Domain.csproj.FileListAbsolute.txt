@@ -1,0 +1,12 @@
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\bin\Debug\net5.0\Dapper.Domain.deps.json
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\bin\Debug\net5.0\Dapper.Domain.dll
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\bin\Debug\net5.0\ref\Dapper.Domain.dll
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\bin\Debug\net5.0\Dapper.Domain.pdb
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.csproj.AssemblyReference.cache
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.AssemblyInfoInputs.cache
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.AssemblyInfo.cs
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.dll
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\obj\Debug\net5.0\ref\Dapper.Domain.dll
+C:\Users\elifh\source\repos\Dapper\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.pdb
